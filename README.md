@@ -2,7 +2,7 @@
 
 Projeto de faculdade em **C** feito para estudar e comparar o desempenho de diferentes **algoritmos de ordenação**, além de implementar as operações básicas de uma **fila de prioridade (min-heap)**.
 
-O programa gera vetores de teste, ordena com o algoritmo escolhido, mede o tempo de execução e salva tudo em arquivos — permitindo comparar como cada algoritmo se comporta conforme o tamanho e o tipo do vetor de entrada.
+O programa gera vetores de teste, ordena com o algoritmo escolhido, mede o tempo de execução e salva tudo em arquivos, permitindo comparar como cada algoritmo se comporta conforme o tamanho e o tipo do vetor de entrada.
 
 <br>
 
@@ -30,17 +30,17 @@ Esse ciclo se repete até o usuário escolher a opção `0 - Sair`. As pastas de
 
 ### Algoritmos de ordenação (`ordenacao.c` / `ordenacao.h`)
 
-| Opção | Algoritmo | Observação |
-|---|---|---|
-| 1 | Insertion Sort | |
-| 2 | Bubble Sort | |
-| 3 | Selection Sort | |
-| 4 | Shell Sort | |
-| 5 | Merge Sort | divisão e conquista |
-| 6 | QuickSort (pivô no início) | |
-| 7 | QuickSort (pivô no meio) | |
-| 8 | QuickSort (pivô aleatório) | |
-| 9 | Heap Sort (min-heap) | |
+| Opção | Algoritmo | 
+|---|---|
+| 1 | Insertion Sort | 
+| 2 | Bubble Sort | 
+| 3 | Selection Sort | 
+| 4 | Shell Sort | 
+| 5 | Merge Sort | 
+| 6 | QuickSort (pivô no início) | 
+| 7 | QuickSort (pivô no meio) | 
+| 8 | QuickSort (pivô aleatório) | 
+| 9 | Heap Sort (min-heap) | 
 
 ### Fila de prioridade — min-heap (opção 10 do menu)
 
