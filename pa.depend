@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1758857568 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\pa\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1758857568 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\pa\ordenacao.h
+
+1758857788 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\pa\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	"salvar.h"
+
+1758857788 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\pa\salvar.h
+
+1758942579 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\pa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+	"salvar.h"
+
+1759014979 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega2\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1758857568 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega2\ordenacao.h
+
+1758857788 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega2\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	"salvar.h"
+
+1758857788 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega2\salvar.h
+
+1759086575 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+	"salvar.h"
+
+1760021816 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+	"salvar.h"
+
+1760021816 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega3\ordenacao.h
+
+1758857788 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega3\salvar.h
+
+1760021816 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega3\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1758857788 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega3\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	"salvar.h"
+
+1758857788 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	"salvar.h"
+
+1758857788 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4\salvar.h
+
+1762615240 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+	"salvar.h"
+
+1762615240 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4\ordenacao.h
+
+1762615240 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1758857788 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4 - copia (2)\salvar.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<direct.h>
+	"salvar.h"
+
+1758857788 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4 - copia (2)\salvar.h
+
+1764170200 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4 - copia (2)\ordenacao.c
+	<stdio.h>
+	<stdlib.h>
+	"ordenacao.h"
+
+1764170200 c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4 - copia (2)\ordenacao.h
+
+1764122051 source:c:\users\livia\ufv\quarto periodo\projeeto de algoritmos\trabalho\entrega4 - copia (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ordenacao.h"
+	"salvar.h"
+
